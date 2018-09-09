@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomLabel.qml</file>
+        <file>PageBackground.qml</file>
+        <file>SideBar.qml</file>
+        <file>SideBarForm.ui.qml</file>
+        <file>Light.qml</file>
+        <file>LightForm.ui.qml</file>
+    </qresource>
+</RCC>
